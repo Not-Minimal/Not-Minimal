@@ -6,11 +6,13 @@
 I'm a Computer Engineering Student 💻 and Designer 🎨!
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+Passionate self-taught, admirer and apprentice of technology and investments. In my short life I have had the opportunity to help small/medium-sized companies to improve and automate their logistics and human resources processes. Thanks to this I have been able to help companies in their day to day to improve workflows in the logistics area.
+In my free time I dedicate myself to learning programming and investments to continue improving day after day. Programming has allowed me to be creative and bold in solving problems.
+Learning about economics has allowed me to consistently support myself.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/saul-munoz/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
