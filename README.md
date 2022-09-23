@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.google.cl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Not-Minimal/Not-Minimal/main/Fondo.png" alt="my banner"></a>
+  <a href="https://www.google.cl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Not-Minimal/Not-Minimal/main/Assets/Back%20GitHub.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
