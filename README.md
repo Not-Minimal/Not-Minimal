@@ -28,7 +28,7 @@ Learning about economics has allowed me to consistently support myself.
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Programing-informational?style=flat&logo=c&color=F7DF1E)
 
 </br>
 
