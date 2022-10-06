@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-I'm a Computer Engineering Student 💻 and Designer 🎨!
+I'm a Computer Engineering Student 💻 and Manager 🎨!
 </h2> 
 
 Passionate self-taught, admirer and apprentice of technology and investments. In my short life I have had the opportunity to help small/medium-sized companies to improve and automate their logistics and human resources processes. Thanks to this I have been able to help companies in their day to day to improve workflows in the logistics area.
