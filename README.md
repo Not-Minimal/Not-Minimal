@@ -25,6 +25,8 @@ Learning about economics has allowed me to consistently support myself.
 ## 🌱 I'm currently learning
 
 - 📱 C
+- 🧑🏻‍💻 Flutter
+- 😎 Other stufs
 
 ## 💼 Technical Skills
 
