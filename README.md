@@ -12,8 +12,9 @@ Learning about economics has allowed me to consistently support myself.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/saul-munoz/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/nottminimal/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Not Minimal | Instagram" width="24px"/></a>
+<a href="https://www.linkedin.com/in/saul-munoz/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/nottminimal/"><img align="left" src="hhttps://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Not Minimal | Instagram" width="24px"/></a>
+href="https://www.instagram.com/nottminimal/"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Not Minimal | Instagram" width="24px"/></a>
 </br>
 
 ## 🔭 I'm currently working on
@@ -25,12 +26,15 @@ Learning about economics has allowed me to consistently support myself.
 ## 🌱 I'm currently learning
 
 - 📱 C
+- ☕️ [Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - 🧑🏻‍💻 Flutter
-- 😎 Other stufs
+- 😎 Investing
 
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-Programing-informational?style=flat&logo=c&color=F7DF1E)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 </br>
 
