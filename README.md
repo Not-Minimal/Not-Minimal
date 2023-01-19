@@ -26,15 +26,13 @@ href="https://www.instagram.com/nottminimal/"><img align="left" src="https://img
 ## 🌱 I'm currently learning
 
 - 📱 C
-- ☕️ [Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ☕️ Java
 - 🧑🏻‍💻 Flutter
 - 😎 Investing
 
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-Programing-informational?style=flat&logo=c&color=F7DF1E)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
 
 </br>
 
