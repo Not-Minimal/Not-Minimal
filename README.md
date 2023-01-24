@@ -25,7 +25,7 @@ Learning about economics has allowed me to consistently support myself.
 ## 🌱 I'm currently learning
 
 - 📱 C
-- ☕️ Java
+- ☕️ JavaScript
 - 🧑🏻‍💻 Flutter
 - 😎 Investing
 
