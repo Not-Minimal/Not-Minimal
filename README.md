@@ -2,6 +2,8 @@
   <a href="https://www.google.cl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Not-Minimal/Not-Minimal/main/Assets/Back%20GitHub%20(1).png" alt="my banner"></a>
 </p>
 
+![Logo](https://user-images.githubusercontent.com/58341096/215300579-f791330c-f1b2-48b9-8091-e45c4a880cad.gif)
+
 <h2 align="center">
 I'm a Computer Engineering Student 💻 and Manager 🎨!
 </h2> 
