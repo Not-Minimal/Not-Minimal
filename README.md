@@ -1,9 +1,11 @@
-![Logo](https://user-images.githubusercontent.com/58341096/215303374-67266942-4fd6-4b11-82a7-8b13972ac9bf.gif)
+![Banner (1)](https://user-images.githubusercontent.com/58341096/216407750-76b3c715-365d-4837-a6cb-1bfacd659322.jpg)
+
+
 
 
 
 <h2 align="center">
-I'm a Computer Engineering Student 💻 and Manager 🎨!
+I'm a Computer Engineering Student and Manager!
 </h2> 
 
 Passionate self-taught, admirer and apprentice of technology and investments. In my short life I have had the opportunity to help small/medium-sized companies to improve and automate their logistics and human resources processes. Thanks to this I have been able to help companies in their day to day to improve workflows in the logistics area.
@@ -12,22 +14,22 @@ Learning about economics has allowed me to consistently support myself.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/saul-munoz/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Saul Muñoz | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/saul-munoz/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Saul Muñoz | LinkedIn" width="24px"/></a>
 <a href="https://www.instagram.com/nottminimal/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Not Minimal | Instagram" width="24px"/></a>
 </br>
 
 ## 🔭 I'm currently working on
 
 - Autotruck Diesel SpA
-- MyForexFounds
 - FTMO
+- MyForexFounds
 
 ## 🌱 I'm currently learning
 
-- 📱 C
-- ☕️ JavaScript
-- 🧑🏻‍💻 Flutter
-- 😎 Investing
+- C
+- JavaScript
+- Flutter
+- Investing
 
 ## 💼 Technical Skills
 
