@@ -1,9 +1,5 @@
 ![Banner (1)](https://user-images.githubusercontent.com/58341096/216407750-76b3c715-365d-4837-a6cb-1bfacd659322.jpg)
 
-
-
-
-
 <h2 align="center">
 I'm a Computer Engineering Student and Manager!
 </h2> 
@@ -25,11 +21,7 @@ Learning about economics has allowed me to consistently support myself.
 - MyForexFounds
 
 ## 🌱 I'm currently learning
-
-- C
-- JavaScript
-- Flutter
-- Investing
+![Skills](https://user-images.githubusercontent.com/58341096/216751303-c75758e5-88b7-43ee-8f32-c536b06f2f2d.png)
 
 ## Technical Skills
 
