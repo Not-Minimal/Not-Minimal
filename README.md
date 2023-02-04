@@ -40,5 +40,5 @@ Learning about economics has allowed me to consistently support myself.
 ![Not Minimal GitHub stats](https://github-readme-stats.vercel.app/api?username=Not-Minimal&theme=codeSTACKr&show_icons=true)
 
 ## GitHub Most Used Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Minimal)](https://github.com/Not-Minimal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Minimal)]
 
