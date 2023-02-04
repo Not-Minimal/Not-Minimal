@@ -31,7 +31,7 @@ Learning about economics has allowed me to consistently support myself.
 - Flutter
 - Investing
 
-## 💼 Technical Skills
+## Technical Skills
 
 ![](https://img.shields.io/badge/Code-Programing-informational?style=flat&logo=c&color=F7DF1E)
 
@@ -44,13 +44,13 @@ Learning about economics has allowed me to consistently support myself.
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 
-## 📈 GitHub Stats 
+## GitHub Stats 
 
-[![Not Minimal github stats](https://github-readme-stats.vercel.app/api?username=Not-Minimal)](https://github.com/Not-Minimal)
+[![Not Minimal github stats](https://github-readme-stats.vercel.app/api?username=Not-Minimal)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Not-Minimal&theme=codeSTACKr&show_icons=true)
 
-[![Not Minimal github stats]([https://github-readme-stats.vercel.app/api?username=Not-Minimal)](https://github.com/Not-Minimal](https://github-readme-stats.vercel.app/api?username=Not-Minimal&title_color=DA2D22&text_color=000000&icon_color=DA2D22&border_color=DA2D22&bg_color=FFFFFF&show_icons=true))
 
 
-## 📈 GitHub Most Used Languages 
+## GitHub Most Used Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Minimal)](https://github.com/Not-Minimal/github-readme-stats)
 
