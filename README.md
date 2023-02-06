@@ -24,17 +24,8 @@ Learning about economics has allowed me to consistently support myself.
 ![Skills](https://user-images.githubusercontent.com/58341096/216751303-c75758e5-88b7-43ee-8f32-c536b06f2f2d.png)
 
 ## Technical Skills
+![Technical Skills](https://user-images.githubusercontent.com/58341096/216865851-7b47eace-3107-4ba1-8cd2-6f3bc550ebc9.png)
 
-![](https://img.shields.io/badge/Code-Programing-informational?style=flat&logo=c&color=F7DF1E)
-
-</br>
-
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
-
-</br>
-
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 
 ## GitHub Stats 
 ![Not Minimal GitHub stats](https://github-readme-stats.vercel.app/api?username=Not-Minimal&theme=codeSTACKr&show_icons=true)
