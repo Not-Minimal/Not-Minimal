@@ -1,4 +1,6 @@
-![Banner (1)](https://user-images.githubusercontent.com/58341096/216407750-76b3c715-365d-4837-a6cb-1bfacd659322.jpg)
+![Banner](https://user-images.githubusercontent.com/58341096/216870402-292ac761-8e84-4981-8a73-15d793927847.jpg)
+
+
 
 <h2 align="center">
 I'm a Computer Engineering Student and Manager!
