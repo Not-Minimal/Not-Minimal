@@ -26,9 +26,7 @@ Learning about economics has allowed me to consistently support myself.
 ## Technical Skills
 ![Technical Skills](https://user-images.githubusercontent.com/58341096/216865851-7b47eace-3107-4ba1-8cd2-6f3bc550ebc9.png)
 
-
 ## GitHub Stats 
 ![Not Minimal GitHub stats](https://github-readme-stats.vercel.app/api?username=Not-Minimal&theme=codeSTACKr&show_icons=true)
 ## GitHub Programing Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Minimal)]
-
