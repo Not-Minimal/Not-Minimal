@@ -8,7 +8,7 @@ Passionate self-taught, admirer and apprentice of technology and investments. In
 In my free time I dedicate myself to learning programming and investments to continue improving day after day. Programming has allowed me to be creative and bold in solving problems.
 Learning about economics has allowed me to consistently support myself.
 
-### 🤝 Connect with me:
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/saul-munoz/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Saul Muñoz | LinkedIn" width="24px"/></a>
 <a href="https://www.instagram.com/nottminimal/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Not Minimal | Instagram" width="24px"/></a>
