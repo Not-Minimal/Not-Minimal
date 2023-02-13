@@ -20,7 +20,7 @@ Learning about economics has allowed me to consistently support myself.
 - FTMO
 - MyForexFounds
 
-## 🌱 I'm currently learning
+## I'm currently learning
 ![Skills](https://user-images.githubusercontent.com/58341096/216751303-c75758e5-88b7-43ee-8f32-c536b06f2f2d.png)
 
 ## Technical Skills
