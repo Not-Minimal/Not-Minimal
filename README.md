@@ -14,7 +14,7 @@ Learning about economics has allowed me to consistently support myself.
 <a href="https://www.instagram.com/nottminimal/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Not Minimal | Instagram" width="24px"/></a>
 </br>
 
-## 🔭 I'm currently working on
+## I'm currently working on
 
 - Autotruck Diesel SpA
 - FTMO
