@@ -12,6 +12,8 @@ Learning about economics has allowed me to consistently support myself.
 
 <a href="https://www.linkedin.com/in/saul-munoz/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Saul Muñoz | LinkedIn" width="24px"/></a>
 <a href="https://www.instagram.com/nottminimal/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Not Minimal | Instagram" width="24px"/></a>
+<a href="https://nottminimal.com/"><img aling="left" src="https://github.com/Not-Minimal/Computer-Science/blob/main/TopSecret/portfolioweb.svg" alt="Saul Muñoz | Portfolio" width="24px"/></a>
+
 </br>
 
 ## I'm currently working on
