@@ -27,6 +27,8 @@ Learning about economics has allowed me to consistently support myself.
 ![Technical Skills](https://user-images.githubusercontent.com/58341096/216865851-7b47eace-3107-4ba1-8cd2-6f3bc550ebc9.png)
 
 ## GitHub Stats 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Not-Minimal&theme=whatsapp-dark2&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 ![Not Minimal GitHub stats](https://github-readme-stats.vercel.app/api?username=Not-Minimal&theme=codeSTACKr&show_icons=true)
 ## GitHub Programing Languages 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Not-Minimal)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Minimal)]
